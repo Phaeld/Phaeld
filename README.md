@@ -1,4 +1,7 @@
 ## HELLO WORLD!! 🖐🏽
+Meu nome é Raphael, sou estudante atualmente da instituição ETEC Jacinto Ferreira de Sá, cursando no período noturno técnico em mecatrônica. Sou apaixonado pelo mundo da robótica, automação com microcontroladores, eletrônica, inteligência artificial e desenvolver website e programas.
+
+Sou uma pessoa muito estudiosa, nunca paro de estudar, estou sempre pensando em me especializar e cursar algum curso relacionado a tecnologia. Estou sempre disposto aprender coisas novas e me dedicar para que projetos e planos aconteçam.
 
 ### REDES SOCIAIS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelsilva-phael)
