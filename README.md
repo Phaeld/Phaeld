@@ -1,16 +1,12 @@
 ## HELLO WORLD!! 🖐🏽
-Meu nome é Raphael, sou estudante atualmente da instituição ETEC Jacinto Ferreira de Sá, cursando no período noturno técnico em mecatrônica. Sou apaixonado pelo mundo da robótica, automação com microcontroladores, eletrônica, inteligência artificial e desenvolver website e programas.
+Meu nome é Raphael, sou estudante em Inteligência Artificial pela FIAP - Faculdade Informática e Administração Paulista. Entusiatas em tecnologia e computação, apaixonado nas áreas de elétrica, eletrônica, programação e robótica.
 
-Sou uma pessoa muito estudiosa, nunca paro de estudar, estou sempre pensando em me especializar e cursar algum curso relacionado a tecnologia. Estou sempre disposto aprender coisas novas e me dedicar para que projetos e planos aconteçam.
 
 ### REDES SOCIAIS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelsilva-phael)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masterofmaieutica/)
 
-### WEBSITE
-
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://myportfoliophael.atwebpages.com)
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaeld&show_icons=true&theme=synthwave)
 
@@ -44,15 +40,3 @@ MICROCONTROLADORES
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )]()
-
-Apaixonado pelo mundo da tecnologia, envolvendo robótica e integliência artificial.
-
-## Projetos Makers
-
--
--
--
-
-## Vídeos
--
--
