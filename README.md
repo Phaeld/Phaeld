@@ -1,6 +1,9 @@
 <div align="center">
 
+<img src="./img-top.png" >
+
 # Raphael da Silva
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Student+at+FIAP;Technology+Enthusiast;Focused+on+AI%2C+IoT%2C+Automation+and+Software;Building+projects+with+purpose+and+innovation" alt="Typing SVG" />
 
